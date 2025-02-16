@@ -1,7 +1,7 @@
 /* ADD TO CART BUTTON */
 button {
     color: #FDFDFD;
-    background-color: #6B4226; /* Soft brown from Snoopy image */
+    background-color: #6B4226;
     border: none;
     padding: 18px 20px;
     border-radius: 12px;
@@ -14,7 +14,7 @@ button {
 }
 
 button:hover {
-    background-color: #4E2C16; /* Slightly darker brown */
+    background-color: #4E2C16;
     cursor: pointer;
     transform: scale(1.05);
 }
